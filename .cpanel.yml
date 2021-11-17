@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/holotori.rvdiaz12.com/
+    - export DEPLOYPATH=/home/rvdiaz12/holotori.rvdiaz12.com
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
